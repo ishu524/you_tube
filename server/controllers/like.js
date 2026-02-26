@@ -1,4 +1,4 @@
-import video from "../Modals/video.js";
+import video from "../Modals/Video.js";
 import like from "../Modals/like.js";
 
 export const handlelike = async (req, res) => {

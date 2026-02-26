@@ -1,4 +1,4 @@
-import video from "../Modals/video.js";
+import video from "../Modals/Video.js";
 
 export const uploadvideo = async (req, res) => {
     if (req.file === undefined) {
