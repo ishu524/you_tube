@@ -1,4 +1,4 @@
-import video from "../Modals/Video.js";
+import video from "../Modals/video.js";
 import history from "../Modals/history.js";
 
 export const handlehistory = async (req, res) => {
